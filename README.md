@@ -8,7 +8,7 @@ I'm not responsible if something went wrong.
 
 <h2>RUN Binod_virus.exe as ADMINISTRATOR MODE</h2>
 
-<img src="Screenshot (46).jpg">
+<img src="Screenshot (46).png">
 
 
 <h1>..........WARNING............</h1>
